@@ -1,0 +1,13 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  "../../../experimento02.srcs/sources_1/new/wCount.vhd"
+vhdl xil_defaultlib  "../../../experimento02.srcs/sources_1/new/somador2.vhd"
+vhdl xil_defaultlib  "../../../experimento02.srcs/sources_1/new/somador1.vhd"
+vhdl xil_defaultlib  "../../../experimento02.srcs/sources_1/new/r_time.vhd"
+vhdl xil_defaultlib  "../../../experimento02.srcs/sources_1/new/rCount.vhd"
+vhdl xil_defaultlib  "../../../experimento02.srcs/sources_1/new/comp2.vhd"
+vhdl xil_defaultlib  "../../../experimento02.srcs/sources_1/new/comp1.vhd"
+vhdl xil_defaultlib  "../../../experimento02.srcs/sources_1/new/bloco_operacional.vhd"
+vhdl xil_defaultlib  "../../../experimento02.srcs/sim_1/new/bloco_op_TB.vhd"
+
+# Do not sort compile order
+nosort
